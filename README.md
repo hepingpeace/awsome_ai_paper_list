@@ -32,10 +32,10 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 ---
 
 ### 🙉 driver assistive perception
-- [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](https://medium.com/@jiangmen28/aide-a-vision-driven-multi-view-multi-modal-multi-tasking-dataset-for-assistive-driving-2adc5dae67c0) - CVPR 2023 [data]
-- [SCOUT+: Towards Practical Task-Driven Drivers’ Gaze Prediction](https://medium.com/@jiangmen28/scout-towards-practical-task-driven-drivers-gaze-prediction-849bf564c2ab) - IV 2024 [data]
+- [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](https://medium.com/@jiangmen28/aide-a-vision-driven-multi-view-multi-modal-multi-tasking-dataset-for-assistive-driving-2adc5dae67c0) - CVPR 2023 [dataset]
+- [SCOUT+: Towards Practical Task-Driven Drivers’ Gaze Prediction](https://medium.com/@jiangmen28/scout-towards-practical-task-driven-drivers-gaze-prediction-849bf564c2ab) - IV 2024 [dataset]
 - [Predicting the Driver’s Focus of Attention: the DR(eye)VE Project](https://medium.com/@jiangmen28/predicting-the-drivers-focus-of-attention-the-dr-eye-ve-project-2e3ddc02b787) - IEEE transactions 2018
-- [MAAD: A Model and Dataset for “Attended Awareness” in Driving](https://medium.com/@jiangmen28/maad-a-model-and-dataset-for-attended-awareness-in-driving-6f32c2ac5104) -ICCV 2021 Workshop
+- [MAAD: A Model and Dataset for “Attended Awareness” in Driving](https://medium.com/@jiangmen28/maad-a-model-and-dataset-for-attended-awareness-in-driving-6f32c2ac5104) -ICCV 2021 Workshop [dataset]
 
 ---
 
