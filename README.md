@@ -1,6 +1,13 @@
-# 😎 Awesome AI paper list 
+# 😎 Awesome AI Papers in Autonomous Driving
 
-This is a curated list of awesome AI papers. The list is divided into different categories, such as computer vision, natural language processing, and reinforcement learning. Each category contains a list of papers that are considered to be state-of-the-art or have significant impact on the field. The list is updated regularly to include the latest research papers.
+This curated list highlights remarkable AI papers that advance the field of Autonomous Driving. I'll regularly update it with papers I read and study, sharing my insights on Medium.
+
+Please support my work by:
+
+- Starring my GitHub repository: Your stars show appreciation and help others discover this resource.
+- Following me on Medium: Stay updated on my latest analyses and thoughts on these influential papers.
+
+Let's explore the cutting-edge of AI in Autonomous Driving together
 
 ## 📚 Table of Contents
 
