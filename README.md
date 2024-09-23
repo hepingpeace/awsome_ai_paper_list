@@ -22,7 +22,6 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 
 ---
 
-##  📷 Computer Vision
 
 ### 🚗 3D Object Detection
 
