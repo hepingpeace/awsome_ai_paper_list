@@ -11,7 +11,7 @@ Let's explore the cutting-edge of AI in Autonomous Driving together
 
 ## 📚 Table of Contents
 
-- [😎 Awesome AI paper list](#-awesome-ai-paper-list)
+- [😎 Awesome AI Papers in Autonomous Driving](#-awesome-ai-paper-in-AD)
   - [📚 Table of Contents](#-table-of-contents)
   - [📷 Computer Vision](#-computer-vision)
     - [🚗 3D Object Detection](#-3d-object-detection)
