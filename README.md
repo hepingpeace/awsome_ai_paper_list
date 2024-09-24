@@ -36,6 +36,7 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 - [Predicting the Driver’s Focus of Attention: the DR(eye)VE Project](https://medium.com/@jiangmen28/predicting-the-drivers-focus-of-attention-the-dr-eye-ve-project-2e3ddc02b787) - IEEE transactions 2018
 - [MAAD: A Model and Dataset for “Attended Awareness” in Driving](https://medium.com/@jiangmen28/maad-a-model-and-dataset-for-attended-awareness-in-driving-6f32c2ac5104) -ICCV 2021 Workshop [dataset]
 - [Explainable Object-induced Action Decision for Autonomous Vehicles](https://medium.com/@jiangmen28/explainable-object-induced-action-decision-for-autonomous-vehicles-4602fe308472) -CVPR 2020 [dataset]
+- [VLAAD: Vision-and-Language-Assistant-for-Autonomous-Driving](https://medium.com/@jiangmen28/vlaad-a-multi-modal-assistant-for-autonomous-driving-8110f1ae9a97) -WACV workshop 2024 [dataset]
 
 ---
 
