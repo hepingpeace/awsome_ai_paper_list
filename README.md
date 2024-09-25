@@ -43,3 +43,9 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 ### 👀  gaze Estimation
 - [Look Both Ways: Self-Supervising Driver Gaze Estimation and Road Scene Saliency](https://medium.com/@jiangmen28/look-both-ways-self-supervising-driver-gaze-estimation-and-road-scene-saliency-e9ac9700f476) -ECCV 2022 oral paper [data]
 -  [A Review of Driver Gaze Estimation and Application in Gaze Behavior Understanding](https://arxiv.org/abs/2307.01470) - arXiv 2024 [summary]
+---
+
+### Vision-Language Model 
+-[Sigmoid Loss for Language Image Pre-Training](https://medium.com/@jiangmen28/siglip-vs-clip-the-sigmoid-advantage-457f1cb872ab) -CVPR 2023 
+-[Learning Transferable Visual Models From Natural Language Supervision] - Openai CLIP 2021
+
