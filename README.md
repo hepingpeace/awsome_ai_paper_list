@@ -46,6 +46,6 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 ---
 
 ### Vision-Language Model 
--[Sigmoid Loss for Language Image Pre-Training](https://medium.com/@jiangmen28/siglip-vs-clip-the-sigmoid-advantage-457f1cb872ab) -CVPR 2023 
--[Learning Transferable Visual Models From Natural Language Supervision] - Openai CLIP 2021
+- [Sigmoid Loss for Language Image Pre-Training](https://medium.com/@jiangmen28/siglip-vs-clip-the-sigmoid-advantage-457f1cb872ab) -CVPR 2023 
+- [Learning Transferable Visual Models From Natural Language Supervision] - Openai CLIP 2021
 
