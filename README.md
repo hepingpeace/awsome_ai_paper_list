@@ -17,6 +17,7 @@ Let's explore the cutting-edge of AI in Autonomous Driving together
     - [🚗 3D Object Detection](#-3d-object-detection)
     - [🙉 driver assistive perception](#-driver-assistive-perception)
     - [👀 Gaze Estimation]
+    - [🗺 depth]
 
 You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 
@@ -48,4 +49,7 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 ### Vision-Language Model 
 - [Sigmoid Loss for Language Image Pre-Training](https://medium.com/@jiangmen28/siglip-vs-clip-the-sigmoid-advantage-457f1cb872ab) -CVPR 2023 
 - [Learning Transferable Visual Models From Natural Language Supervision](https://openai.com/index/clip/) - Openai CLIP 2021
+
+### depth images
+[DEPTH PRO: ShARP Monocular METric DEPTH IN LESS THAN A SECOND](https://medium.com/@jiangmen28/apple-depth-pro-sharp-monocular-metric-depth-in-less-than-a-second-bd020a4c3ae7) apple 
 
