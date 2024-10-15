@@ -49,6 +49,8 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 ### Vision-Language Model 
 - [Sigmoid Loss for Language Image Pre-Training](https://medium.com/@jiangmen28/siglip-vs-clip-the-sigmoid-advantage-457f1cb872ab) -CVPR 2023 
 - [Learning Transferable Visual Models From Natural Language Supervision](https://openai.com/index/clip/) - Openai CLIP 2021
+- [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://medium.com/@jiangmen28/blip-bootstrapping-language-image-pre-training-for-unified-vision-language-understanding-and-8d7fb2e4813c) -Salesforce Research
+- 
 
 ### depth images
 [DEPTH PRO: ShARP Monocular METric DEPTH IN LESS THAN A SECOND](https://medium.com/@jiangmen28/apple-depth-pro-sharp-monocular-metric-depth-in-less-than-a-second-bd020a4c3ae7) apple 
