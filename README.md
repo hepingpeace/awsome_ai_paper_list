@@ -51,7 +51,8 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 - [Learning Transferable Visual Models From Natural Language Supervision](https://openai.com/index/clip/) - Openai CLIP 2021
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://medium.com/@jiangmen28/blip-bootstrapping-language-image-pre-training-for-unified-vision-language-understanding-and-8d7fb2e4813c) -Salesforce Research
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://medium.com/@jiangmen28/blip-2-bootstrapping-language-image-pre-training-with-frozen-image-encoders-and-large-language-fb8e87ddc853)
+---
 
-### depth images
+### Depth images
 [DEPTH PRO: ShARP Monocular METric DEPTH IN LESS THAN A SECOND](https://medium.com/@jiangmen28/apple-depth-pro-sharp-monocular-metric-depth-in-less-than-a-second-bd020a4c3ae7) apple 
 
