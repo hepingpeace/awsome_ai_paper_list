@@ -56,3 +56,6 @@ You can find a list of my articles on [Medium](https://medium.com/@jiangmen28).
 ### Depth images
 [DEPTH PRO: ShARP Monocular METric DEPTH IN LESS THAN A SECOND](https://medium.com/@jiangmen28/apple-depth-pro-sharp-monocular-metric-depth-in-less-than-a-second-bd020a4c3ae7) apple 
 
+### Road Segmentation
+-[Exploiting Low-level Representations for Ultra-Fast Road Segmentation](https://medium.com/@jiangmen28/exploiting-low-level-representations-for-ultra-fast-road-segmentation-aa64160418e4)
+
